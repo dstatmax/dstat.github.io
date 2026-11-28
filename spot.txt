@@ -1,12 +1,8 @@
 name: Ad Spot 60€
 spot: 1
-url: 
-image: 
 
 name: Ad Spot 60€
 spot: 2
-url: 
-image: 
 
 name: Ad Spot 60€
 spot: 3
