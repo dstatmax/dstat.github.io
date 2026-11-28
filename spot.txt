@@ -1,12 +1,12 @@
-name: Bro1
+name: Ad Spot 60€
 spot: 1
-url: https://example.com/server
-image: https://i.imgur.com/example.png
+url: 
+image: 
 
-name: Bro2
+name: Ad Spot 60€
 spot: 2
-url: https://example.com/proxy
-image: https://i.imgur.com/example2.gif
+url: 
+image: 
 
 name: Ad Spot 60€
 spot: 3
