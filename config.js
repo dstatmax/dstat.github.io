@@ -5,4 +5,4 @@
 
   Do not put passwords or private API keys in this file: it is public frontend code.
 */
-window.DSTAT_API_BASE = "";
+window.DSTAT_API_BASE = "http://65.108.3.108:26185";
